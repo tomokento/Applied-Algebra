@@ -1,1 +1,1 @@
-# Applied-Algebra
+# AY2019 Applied-Algebra Class
