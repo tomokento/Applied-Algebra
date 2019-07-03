@@ -1,5 +1,5 @@
 # AY2019 Applied-Algebra Class
-Notice (20190703): We have slightly revised the assignment 4 with rigorous expression.
+Notice (20190703): We have slightly revised [the_assignment_4](https://github.com/uoaworks/Applied-Algebra/blob/master/Assignment4.pdf) with rigorous expression.
 
 Notice (20190701): We have revised [the_slides_of_Lecture_3](https://github.com/uoaworks/Applied-Algebra/blob/master/Lecture3_slides_after_class.pdf) with updated Example 3.10 and 3.11.
 
