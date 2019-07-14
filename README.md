@@ -1,4 +1,6 @@
 # AY2019 Applied-Algebra Class
+Notice (20190715): In [the_slides_of_Lecture_10](https://github.com/uoaworks/Applied-Algebra/blob/master/Lecture10_slides_before_class.pdf), we have added new Example 10.2, 10.5 and 10.6.
+
 Notice (20190711): In [the_slides_of_Lecture_9](https://github.com/uoaworks/Applied-Algebra/blob/master/Lecture9_slides_after_class.pdf), we have revised (1)Theorem 9.3 in page 19 ("Let R be a ring."), (2)Example 9.8 in page 20 and (3)add definition for "ring with unity" in appendix. 
 
 Notice (20190703): We have slightly revised [the_assignment_4](https://github.com/uoaworks/Applied-Algebra/blob/master/Assignment4.pdf) with rigorous expression.
