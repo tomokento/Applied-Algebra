@@ -1,5 +1,5 @@
 # AY2019 Applied-Algebra Class
-Notice (20190731): The Lecture 14 is a review class, we will not have a before class slides.
+Notice (20190731): The Lecture 14 is a review class, we will not have the before class slides.
 
 Notice (20190715): In [the_slides_of_Lecture_10](https://github.com/uoaworks/Applied-Algebra/blob/master/Lecture10_slides_after_class.pdf), we have added new Example 10.2, 10.5 and 10.6.
 
